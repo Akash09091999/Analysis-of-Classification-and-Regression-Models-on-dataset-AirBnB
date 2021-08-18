@@ -124,6 +124,13 @@ I   would   like   to   express   my   sincere   gratitude   to   mysupervisor, 
 ## Road-map (future ideas)
 The future work in this research may include (i) exploringother  feature  selection  schemes,  such  as  the  importanceof  random  forest  features,  (ii)  further  experimenting  withneural  network  architectures,  and  (iii)  obtaining  additionaltraining   examples   from   others   hospitality   services,   suchas  VRBO,  to  improve  the  performance  of  the  K-meansclustering, especially through the Ridge regression model.
 
+## Project Status
+
+- Currently I have made the model and trained it in a very small data of New York City, but in future, I am planning to cover metropolitan area which will also have more attributes that affect the housing price, so in order to consider those factory, the model have to be changed by adding more parameters in the priority manner so to make the prediction nearly perfect.
+
+- To do so, if anyone is also interested in the same idea of mine, I invite all with an open heart to collaborate with me in this research and make the model as useful as possible.
+
+
 ## Necessary Things for a README
 
 Depending on exactly what sort of project you are doing, there are a number of things that you may or may not want to include in a readme. There is really no **one true way** to do it. Readme's are a kind of _artform_.
