@@ -41,10 +41,8 @@ ROC curve and kappa value.
 
 
 ## Visuals
-
-- Visuals are very important! You might want to include screenshots of your code in operation. GIFS are also great!
-- Just use the "![ ]()" to input images.
-![Output1](https://github.com/Akash09091999/Research_Methodology_Airbnb/blob/main/Output/Result.png)
+- Output of the Project signifying the overall performance of the Algorithms implemented.
+![Output](https://github.com/Akash09091999/Research_Methodology_Airbnb/blob/main/Output/Result.png)
 
 ## Style Examples
 
