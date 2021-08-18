@@ -128,7 +128,8 @@ Depending on exactly what sort of project you are doing, there are a number of t
 - This is a brief, but accurate description telling potential users _exactly_ what your project is about. This is akin to an "abstract" in academic works. 
 
 ## Badges
-
+https://img.shields.io/badge/Python-3.7-green
+https://img.shields.io/badge/Languages-1-blue
 ![social](https://img.shields.io/github/followers/trevortomesh?style=social)![twitter](https://img.shields.io/twitter/follow/trevortomesh?style=social)![languages](https://img.shields.io/github/languages/count/trevortomesh/research-methods-class)
 
 - Badges are small images that convey meta data such as whether or not all the tests are passing, version numbers, languages used, etc. 
