@@ -83,7 +83,7 @@ Syntax of using pip command is : "pip install \<nameOfLibrary\>" without quotes,
 Contact: [email me](mailto:alakhan1@lakeheadu.ca)
 
 ## Road-map
-The future work in this research may include (i) exploring other  feature  selection  schemes,  such  as  the  importance of  random  forest  features,  (ii)  further  experimenting  with neural  network  architectures,  and  (iii)  obtaining  additional training   examples   from   others   hospitality   services,   suchas  VRBO,  to  improve  the  performance  of  the  K-means clustering, especially through the Ridge regression model.
+The future work in this research may include  <br />(i) exploring other  feature  selection  schemes,  such  as  the  importance of  random  forest  features,   <br />(ii)  further  experimenting  with neural  network  architectures,  and   <br />(iii)  obtaining  additional training   examples   from   others   hospitality   services,   suchas  VRBO,  to  improve  the  performance  of  the  K-means clustering, especially through the Ridge regression model.
 
 ## Acknowledgements
 I   would   like   to   express   my   sincere   gratitude   to   my supervisor,  Professor  Dr.  T.  Tomesh  for  his  immeasurable support  and  guidance  throughout  my  research  studies.  His patience  and  guidance  help  me  overcome  challenges  and finish  this  project.  Without  professor  Tomesh’s  guidance, this   project   would   not   have   been   possible.   This   is   to place  on  record  our  appreciation  and  deep  gratitude  to  the professor.  I  express  our  sincere  thanks  to  faculties,  Head of   the   Department,   at   LAKEHEAD   UNIVERSITY   for extending their help. Finally, I would like to thank everyone who  directly  or  indirectly  helped  us  implement  our  project successfully.
@@ -93,16 +93,3 @@ I   would   like   to   express   my   sincere   gratitude   to   my supervisor,
 - Currently I have made the model and trained it in a very small data of New York City, but in future, I am planning to cover metropolitan area which will also have more attributes that affect the housing price, so in order to consider those factory, the model have to be changed by adding more parameters in the priority manner so to make the prediction nearly perfect.
 
 - To do so, if anyone is also interested in the same idea of mine, I invite all with an open heart to collaborate with me in this research and make the model as useful as possible.
-
-
-
-
-
-
-
-
-
-
-
-
-​    
