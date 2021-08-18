@@ -51,22 +51,22 @@ Syntax of using pip command is : "pip install \<nameOfLibrary\>" without quotes,
 
 -cycler==0.10.0 <br />
 -Jinja2==3.0.1 <br />
--joblib==1.0.1
--kiwisolver==1.3.1
--MarkupSafe==2.0.1
--matplotlib==3.4.3
--numpy==1.21.2
--pandas==1.3.2
--Pillow==8.3.1
--pyparsing==2.4.7
--python-dateutil==2.8.2
--pytz==2021.1
--scikit-learn==0.24.2
--scipy==1.7.1
--seaborn==0.11.2
--six==1.16.0
--threadpoolctl==2.2.0
--jupyter notebook==6.4.0
+-joblib==1.0.1 <br />
+-kiwisolver==1.3.1 <br />
+-MarkupSafe==2.0.1 <br />
+-matplotlib==3.4.3 <br />
+-numpy==1.21.2 <br />
+-pandas==1.3.2 <br />
+-Pillow==8.3.1 <br />
+-pyparsing==2.4.7 <br />
+-python-dateutil==2.8.2 <br />
+-pytz==2021.1 <br />
+-scikit-learn==0.24.2 <br />
+-scipy==1.7.1 <br />
+-seaborn==0.11.2 <br />
+-six==1.16.0 <br />
+-threadpoolctl==2.2.0 <br />
+-jupyter notebook==6.4.0 <br />
 
 ## Usage
 - After installing all the libraries used in the project, the project will open perfectly in Jupyter Notebook that will be visible in browser.
