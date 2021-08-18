@@ -110,7 +110,13 @@ You can also do relative links [newfile.txt](newfile.txt)
 - Now, open the browser with the link, localhost:8888 and open the Notebook file: "AirBnB.ipynb" in the browser.
 - This file will contain all the cells of code which have to be executed in the same sequence as observed in the file.
 - To alter the code, you have to rerun the cells in the same sequence to maintain the compatibility in variables used by the models.
-- The final output will be provided to you at the end representing the comparison of all the algorithms used in a tabular format.
+- The final output will be provided to you at the end representing the comparison of all the algorithms used in a tabular format(dynamic as per your alteration of code and data).
+
+## Support
+
+- To contact me or if you find any changes or upgrades in the code, please contact me on the below email address, I would be happy to stay in touch with you.
+
+Contact: [email me](alakhan1@lakeheadu.ca)
 
 ## Acknowledgements
 I   would   like   to   express   my   sincere   gratitude   to   mysupervisor,  Professor  Dr.  T.  Tomesh  for  his  immeasurablesupport  and  guidance  throughout  my  research  studies.  Hispatience  and  guidance  help  me  overcome  challenges  andfinish  this  project.  Without  professor  Tomesh’s  guidance,this   project   would   not   have   been   possible.   This   is   toplace  on  record  our  appreciation  and  deep  gratitude  to  theprofessor.  I  express  our  sincere  thanks  to  faculties,  Headof   the   Department,   at   LAKEHEAD   UNIVERSITY   forextending their help. Finally, I would like to thank everyonewho  directly  or  indirectly  helped  us  implement  our  projectsuccessfully.
