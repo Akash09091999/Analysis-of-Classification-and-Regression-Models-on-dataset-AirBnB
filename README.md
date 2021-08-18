@@ -1,29 +1,39 @@
-# Research Methods Class (v 1.0)
+# Analysis of Classification and Regression Models on dataset: AirBnB
 
-![social](https://img.shields.io/github/followers/trevortomesh?style=social)![twitter](https://img.shields.io/twitter/follow/trevortomesh?style=social)![languages](https://img.shields.io/github/languages/count/trevortomesh/research-methods-class)
+## A case study using data from the Newyork city Airbnb-2019
 
-
-This is a repository for my research methods class.
+*Keywords: Airbnb, Edinburgh, city, data science, pandas, geopandas, geospatial, foursquare, maps, matplotlib, modeling, neighbourhood, networks, numpy, foursquare API, planning, python, urban planning, data visualization*
+REAM
 
 ## Table of Contents
 
-1. [Manifest](#manifest)
+1. [Description](#Description)
 2. [Style Examples](#style-examples)
 3. [Embedding Code](#embedding-code)
 4. [Embedding Links](embedding-links)
-5. [Embedding Images](#embedding-images)
+5. [Install Instructions](#Install-Instructions)
 6. [Lists In Markdown](#lists-in-markdown)
 7. [Necessary Things for a README](#necessary-things-for-a-readme)
+8. [Road-map (future ideas)](Road-map-(future-ideas))
+10. [Acknowledgements](#Acknowledgements)
 
-## Manifest
+## Description
 
-- A manifest is a list of the top-level files in a project with a description of what each file is.
-
-```
-- newfile.txt --> A new file that says stuff in it
-- README.md ----> This markdown file you are reading.
-- img ----------> Images folder for the readme
-```
+- Pricing a rental apartment on Airbnb is a daunting task
+for owners because it determines the number of customers
+in the location. The customer should evaluate the proposed
+price with the least knowledge of the best value. In this
+project I analyzed a powerful price prediction model that
+uses machine learning, deep learning, and natural language
+processing techniques to help owners and customers
+estimate prices with the least available information about
+the property. Rental characteristics, landlord characteristics,
+and customer ratings will include predictor variables and
+use a variety of methods, from linear regression to support
+vector regression (SVR), k-means clustering (KMC), neural
+network (NN) and tree-based models for build a predictive
+model. Various methods are used to test the yield, such as
+ROC curve and kappa value.
 
 ## Style Examples
 
@@ -64,32 +74,31 @@ You can also do relative links [newfile.txt](newfile.txt)
 
 
 
-## Lists in Markdown
+## Install Instructions
 
-Here's a list of cool pokemon:
+-cycler==0.10.0
+-Jinja2==3.0.1
+-joblib==1.0.1
+-kiwisolver==1.3.1
+-MarkupSafe==2.0.1
+-matplotlib==3.4.3
+-numpy==1.21.2
+-pandas==1.3.2
+-Pillow==8.3.1
+-pyparsing==2.4.7
+-python-dateutil==2.8.2
+-pytz==2021.1
+-scikit-learn==0.24.2
+-scipy==1.7.1
+-seaborn==0.11.2
+-six==1.16.0
+-threadpoolctl==2.2.0
 
-- Mew
-- Mewtwo
-- Celebi
-- Arceus
-- Porygon
-- Mimikyu
+## Acknowledgements
+I   would   like   to   express   my   sincere   gratitude   to   mysupervisor,  Professor  Dr.  T.  Tomesh  for  his  immeasurablesupport  and  guidance  throughout  my  research  studies.  Hispatience  and  guidance  help  me  overcome  challenges  andfinish  this  project.  Without  professor  Tomesh’s  guidance,this   project   would   not   have   been   possible.   This   is   toplace  on  record  our  appreciation  and  deep  gratitude  to  theprofessor.  I  express  our  sincere  thanks  to  faculties,  Headof   the   Department,   at   LAKEHEAD   UNIVERSITY   forextending their help. Finally, I would like to thank everyonewho  directly  or  indirectly  helped  us  implement  our  projectsuccessfully.
 
-Here's a list of my favorite pens:
-
-1. Lamy 200
-2. Herbin
-3. Pilot
-
-Here's a nested list!
-
-1. This is a number
-   1. This is a sub-number
-   2. This is another sub-number
-2. This is a number
-   - This is a subpoint
-   - This is another sub-point
-     1. This is a sub-sub number
+## Road-map (future ideas)
+The future work in this research may include (i) exploringother  feature  selection  schemes,  such  as  the  importanceof  random  forest  features,  (ii)  further  experimenting  withneural  network  architectures,  and  (iii)  obtaining  additionaltraining   examples   from   others   hospitality   services,   suchas  VRBO,  to  improve  the  performance  of  the  K-meansclustering, especially through the Ridge regression model.
 
 ## Necessary Things for a README
 
