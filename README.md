@@ -49,8 +49,8 @@ After Installing Python, install the following libraries using the pip command.
 
 Syntax of using pip command is : "pip install \<nameOfLibrary\>" without quotes, example "pip install matplotlib".
 
--cycler==0.10.0
--Jinja2==3.0.1
+-cycler==0.10.0 <br />
+-Jinja2==3.0.1 <br />
 -joblib==1.0.1
 -kiwisolver==1.3.1
 -MarkupSafe==2.0.1
