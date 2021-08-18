@@ -2,7 +2,7 @@
 
 ## A case study using data from the Newyork city Airbnb-2019
 
-*Keywords: Airbnb, Edinburgh, city, data science, pandas, geopandas, geospatial, foursquare, maps, matplotlib, modeling, neighbourhood, networks, numpy, foursquare API, planning, python, urban planning, data visualization*
+*Keywords: Airbnb, NYC, city, pandas, geopandas, geospatial, foursquare, maps, matplotlib, modeling, neighbourhood, networks, numpy, foursquare API, planning, python, urban planning, data visualization*
 REAM
 
 ## Table of Contents
