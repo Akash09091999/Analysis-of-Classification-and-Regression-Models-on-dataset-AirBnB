@@ -116,7 +116,7 @@ You can also do relative links [newfile.txt](newfile.txt)
 
 - To contact me or if you find any changes or upgrades in the code, please contact me on the below email address, I would be happy to stay in touch with you.
 
-Contact: [email me]("alakhan1@lakeheadu.ca")
+Contact: [email me](mailto:alakhan1@lakeheadu.ca)
 
 ## Acknowledgements
 I   would   like   to   express   my   sincere   gratitude   to   mysupervisor,  Professor  Dr.  T.  Tomesh  for  his  immeasurablesupport  and  guidance  throughout  my  research  studies.  Hispatience  and  guidance  help  me  overcome  challenges  andfinish  this  project.  Without  professor  Tomesh’s  guidance,this   project   would   not   have   been   possible.   This   is   toplace  on  record  our  appreciation  and  deep  gratitude  to  theprofessor.  I  express  our  sincere  thanks  to  faculties,  Headof   the   Department,   at   LAKEHEAD   UNIVERSITY   forextending their help. Finally, I would like to thank everyonewho  directly  or  indirectly  helped  us  implement  our  projectsuccessfully.
