@@ -44,7 +44,7 @@ ROC curve and kappa value.
 
 - Visuals are very important! You might want to include screenshots of your code in operation. GIFS are also great!
 - Just use the "![ ]()" to input images.
-![Output1]("/Output/Result.png")
+![Output1]("https://github.com/Akash09091999/Research_Methodology_Airbnb/blob/main/Output/Result.png")
 
 ## Style Examples
 
