@@ -85,7 +85,8 @@ You can also do relative links [newfile.txt](newfile.txt)
 
 ## Install Instructions
 After Installing Python, install the following libraries using the pip command. 
-Syntax of using pip command is : "pip install <nameOfLibrary>" without quotes, example "pip install matplotlib".
+
+Syntax of using pip command is : "pip install \<nameOfLibrary\>" without quotes, example "pip install matplotlib".
 
 -cycler==0.10.0
 -Jinja2==3.0.1
