@@ -36,8 +36,8 @@ model. Various methods are used to test the yield, such as
 ROC curve and kappa value.
 
 ## Badges
-https://img.shields.io/badge/Python-3.7-green
-https://img.shields.io/badge/Languages-1-blue
+![code](https://img.shields.io/badge/Python-3.7-green)
+![languages](https://img.shields.io/badge/Languages-1-blue)
 
 ## Style Examples
 
