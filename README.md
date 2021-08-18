@@ -13,7 +13,7 @@ REAM
 4. [Install Instructions](#Install-Instructions)
 5. [Usage](#Usage)
 6. [Support](#Support)
-7. [Road-map (future ideas)](#Road-map (future-ideas))
+7. [Road-map (future ideas)](#Road-map)
 8. [Acknowledgements](#Acknowledgements)
 9. [Project Status](#Project-Status)
 
@@ -82,7 +82,7 @@ Syntax of using pip command is : "pip install \<nameOfLibrary\>" without quotes,
 
 Contact: [email me](mailto:alakhan1@lakeheadu.ca)
 
-## Road-map (future ideas)
+## Road-map
 The future work in this research may include (i) exploring other  feature  selection  schemes,  such  as  the  importance of  random  forest  features,  (ii)  further  experimenting  with neural  network  architectures,  and  (iii)  obtaining  additional training   examples   from   others   hospitality   services,   suchas  VRBO,  to  improve  the  performance  of  the  K-means clustering, especially through the Ridge regression model.
 
 ## Acknowledgements
