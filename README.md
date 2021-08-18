@@ -84,6 +84,8 @@ You can also do relative links [newfile.txt](newfile.txt)
 
 
 ## Install Instructions
+After Installing Python, install the following libraries using the pip command. 
+Syntax of using pip command is : "pip install <nameOfLibrary>" without quotes, example "pip install matplotlib".
 
 -cycler==0.10.0
 -Jinja2==3.0.1
@@ -119,10 +121,10 @@ You can also do relative links [newfile.txt](newfile.txt)
 Contact: [email me](mailto:alakhan1@lakeheadu.ca)
 
 ## Acknowledgements
-I   would   like   to   express   my   sincere   gratitude   to   my supervisor,  Professor  Dr.  T.  Tomesh  for  his  immeasurable support  and  guidance  throughout  my  research  studies.  His patience  and  guidance  help  me  overcome  challenges  andfinish  this  project.  Without  professor  Tomesh’s  guidance, this   project   would   not   have   been   possible.   This   is   to place  on  record  our  appreciation  and  deep  gratitude  to  the professor.  I  express  our  sincere  thanks  to  faculties,  Head of   the   Department,   at   LAKEHEAD   UNIVERSITY   for extending their help. Finally, I would like to thank everyone who  directly  or  indirectly  helped  us  implement  our  project successfully.
+I   would   like   to   express   my   sincere   gratitude   to   my supervisor,  Professor  Dr.  T.  Tomesh  for  his  immeasurable support  and  guidance  throughout  my  research  studies.  His patience  and  guidance  help  me  overcome  challenges  and finish  this  project.  Without  professor  Tomesh’s  guidance, this   project   would   not   have   been   possible.   This   is   to place  on  record  our  appreciation  and  deep  gratitude  to  the professor.  I  express  our  sincere  thanks  to  faculties,  Head of   the   Department,   at   LAKEHEAD   UNIVERSITY   for extending their help. Finally, I would like to thank everyone who  directly  or  indirectly  helped  us  implement  our  project successfully.
 
 ## Road-map (future ideas)
-The future work in this research may include (i) exploringother  feature  selection  schemes,  such  as  the  importanceof  random  forest  features,  (ii)  further  experimenting  withneural  network  architectures,  and  (iii)  obtaining  additionaltraining   examples   from   others   hospitality   services,   suchas  VRBO,  to  improve  the  performance  of  the  K-meansclustering, especially through the Ridge regression model.
+The future work in this research may include (i) exploring other  feature  selection  schemes,  such  as  the  importance of  random  forest  features,  (ii)  further  experimenting  with neural  network  architectures,  and  (iii)  obtaining  additional training   examples   from   others   hospitality   services,   suchas  VRBO,  to  improve  the  performance  of  the  K-means clustering, especially through the Ridge regression model.
 
 ## Project Status
 
