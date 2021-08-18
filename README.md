@@ -39,6 +39,13 @@ ROC curve and kappa value.
 ![code](https://img.shields.io/badge/Python-3.7-green)
 ![languages](https://img.shields.io/badge/Languages-1-blue)
 
+
+## Visuals
+
+- Visuals are very important! You might want to include screenshots of your code in operation. GIFS are also great!
+- Just use the "![ ]()" to input images.
+![Output1](\Output\Result.png)
+
 ## Style Examples
 
 _Italics!_
